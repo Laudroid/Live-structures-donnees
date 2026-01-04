@@ -1,4 +1,4 @@
-# Cours Structures Donnees
+# Cours algorithmique et Structures Donnees
 
 ## Objectifs de la formation
 
