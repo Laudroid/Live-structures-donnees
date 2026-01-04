@@ -9,8 +9,6 @@
 - Préparer la transition vers un langage de programmation (C, Java, Python…)
 ## Séance 1 : Introduction à l’algorithmique
 
-**Durée :** 3 heures
-
 ### Objectifs pédagogiques
 
 - Comprendre la notion de problème, algorithme et programme
@@ -32,8 +30,6 @@
 
 - Compréhension du rôle des données d’entrée et de sortie dans un algorithme.
 ## Séance 2 : Types de données et expressions
-
-**Durée :** 3 heures
 
 ### Objectifs pédagogiques
 
@@ -57,8 +53,6 @@
 - Règles de priorité dans les expressions pour garantir la bonne évaluation.
 ## Séance 3 : Instructions simples et conditionnelles
 
-**Durée :** 3 heures
-
 ### Objectifs pédagogiques
 
 - Maîtriser l’affectation et les entrées / sorties
@@ -75,8 +69,6 @@
 
 - Instructions conditionnelles SI … ALORS, SI … ALORS … SINON, SELON … FAIRE.
 ## Séance 4 : Structures itératives
-
-**Durée :** 3 heures
 
 ### Objectifs pédagogiques
 
@@ -97,8 +89,6 @@
 
 - Critères pour choisir la boucle la plus adaptée au problème donné.
 ## Séance 5 : Tableaux et algorithmes classiques
-
-**Durée :** 3 heures
 
 ### Objectifs pédagogiques
 
