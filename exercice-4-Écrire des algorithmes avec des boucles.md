@@ -20,20 +20,6 @@ Ce TP vise à renforcer votre maîtrise des boucles, un concept fondamental en p
 
 ---
 
-**Consignes Générales (Utilisation de l'IA) :**
-
-Vous êtes encouragés à utiliser des outils d'IA (ChatGPT, Copilot, etc.) pour vous aider dans ce TP. Cependant, l'objectif n'est pas de copier-coller une solution, mais de **comprendre, d'analyser et d'adapter le code généré**.
-
-Utilisez l'IA comme un assistant intelligent :
-*   Pour explorer des concepts ou des syntaxes que vous ne maîtrisez pas.
-*   Pour générer des exemples de code que vous devrez ensuite critiquer et améliorer.
-*   Pour vous aider à déboguer votre propre code.
-*   Pour proposer des alternatives que vous analyserez.
-
-La qualité de votre *compréhension*, de votre *analyse* et de votre *capacité à justifier vos choix* sera évaluée.
-
----
-
 **Énoncé du TP :**
 
 Écrire un algorithme qui calcule la factorielle d'un nombre entier positif donné en utilisant une boucle.
@@ -80,18 +66,3 @@ La qualité de votre *compréhension*, de votre *analyse* et de votre *capacité
         *   **Lisibilité :** Laquelle trouvez-vous la plus facile à comprendre ?
         *   **Efficacité :** Y a-t-il des différences en termes de consommation mémoire ou de temps d'exécution pour de grands nombres ? (Vous pouvez faire des tests si vous le souhaitez).
         *   **Cas d'usage :** Quand préférer l'une ou l'autre approche pour des problèmes similaires ?
-
-3.3. **Utilisation de l'IA : Votre Expérience**
-    *   Décrivez brièvement comment vous avez utilisé l'IA pour ce TP. Quels prompts avez-vous utilisés ? Qu'est-ce qui a été utile ? Qu'est-ce qui a été moins utile ou a nécessité une correction/adaptation de votre part ?
-    *   Avez-vous trouvé des erreurs ou des imprécisions dans le code généré par l'IA ? Si oui, comment les avez-vous identifiées et corrigées ?
-
----
-
-**Rendu :**
-
-*   Un fichier de code source (ex: `factorielle.py`, `Factorielle.java`, `factorielle.cs`, etc.) contenant toutes les parties implémentées (Parties 1 et 2).
-*   Un court rapport (fichier texte ou PDF) répondant aux questions de la Partie 3 et documentant vos observations de la Partie 2.2.
-
----
-
-N'hésitez pas à expérimenter et à poser des questions si vous rencontrez des difficultés. Bon courage et amusez-vous bien !
